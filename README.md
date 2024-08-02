@@ -14,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2727-number-of-senior-citizens](https://github.com/Karthikeyan1484/leetcode/tree/master/2727-number-of-senior-citizens) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Karthikeyan1484/leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
