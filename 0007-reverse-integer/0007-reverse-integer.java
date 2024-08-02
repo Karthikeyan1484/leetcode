@@ -12,14 +12,4 @@ public class Solution {
 
         return (int) reversed; 
     }
-
-    public static void main(String[] args) {
-        Solution solution = new Solution();
-        int num = 123;
-        System.out.println(solution.reverse(num)); 
-        num = -123;
-        System.out.println(solution.reverse(num));
-        num = 1534236469;
-        System.out.println(solution.reverse(num));
-    }
 }
